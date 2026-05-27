@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersncrypt",
+        "uuid": 13312259,
+        "checksum": "gpwc2r"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
